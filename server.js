@@ -67,6 +67,10 @@ locations.find().toArray((err,bisika) => {
 
 });
 
+app.get('/',function(req,res){
+  res.json('Bienvenu sur esika');
+});
+
 app.post('/api/locations',function(req,res){
 
   console.log(req.body);
