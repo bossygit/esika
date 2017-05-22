@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/bossygit/esika/issues"
   },
+  "dependencies": {
+  "body-parser": "^1.17.1",
+  "cors": "^2.8.3",
+  "express": "^4.15.2",
+  "mongodb": "^2.2.26",
+  "morgan": "^1.8.1"
+},
   "homepage": "https://github.com/bossygit/esika#readme"
 }
