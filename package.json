@@ -1,0 +1,19 @@
+{
+  "name": "esika",
+  "version": "1.0.0",
+  "description": "Esika ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bossygit/esika.git"
+  },
+  "author": "Bienvenu Kitutu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bossygit/esika/issues"
+  },
+  "homepage": "https://github.com/bossygit/esika#readme"
+}
